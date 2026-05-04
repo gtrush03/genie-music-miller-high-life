@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#f5efe2"/>
+  <path d="M22 14 h20 v6 c0 2 -2 3 -3 5 v22 c0 4 -3 7 -7 7 s-7 -3 -7 -7 v-22 c-1 -2 -3 -3 -3 -5 z"
+        fill="#8a5a36" stroke="#3a2c1a" stroke-width="1.5"/>
+  <rect x="25" y="32" width="14" height="10" rx="1" fill="#f5efe2"/>
+  <text x="32" y="40" text-anchor="middle" font-family="serif" font-size="6" font-style="italic" fill="#8a5a36">HL</text>
+</svg>

@@ -1,0 +1,25 @@
+[2K[1A[2K[GProduction: https://genie-music-miller-high-life-4lw081ila-george-the-gs-projects.vercel.app [7s]
+Completing...
+Aliased: https://genie-music-miller-high-life.vercel.app [7s]
+{
+  "status": "ok",
+  "deployment": {
+    "id": "dpl_2v2EYLeBWLS4924F3s4rG6QCbzrc",
+    "url": "https://genie-music-miller-high-life-4lw081ila-george-the-gs-projects.vercel.app",
+    "inspectorUrl": "https://vercel.com/george-the-gs-projects/genie-music-miller-high-life/2v2EYLeBWLS4924F3s4rG6QCbzrc",
+    "readyState": "READY",
+    "target": "production",
+    "deploymentApiUrl": "https://api.vercel.com/v13/deployments/dpl_2v2EYLeBWLS4924F3s4rG6QCbzrc"
+  },
+  "message": "Deployment genie-music-miller-high-life-4lw081ila-george-the-gs-projects.vercel.app ready.",
+  "next": [
+    {
+      "command": "vercel inspect genie-music-miller-high-life-4lw081ila-george-the-gs-projects.vercel.app --scope george-the-gs-projects",
+      "when": "Inspect deployment"
+    },
+    {
+      "command": "vercel deploy --prod --scope george-the-gs-projects",
+      "when": "Promote to production"
+    }
+  ]
+}
